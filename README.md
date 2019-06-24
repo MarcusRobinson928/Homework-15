@@ -1,2 +1,1 @@
-# Homework-15
-Assignment 15
+# Webpage grid layout using HTML and CSS
